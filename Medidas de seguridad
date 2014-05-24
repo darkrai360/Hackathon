@@ -1,0 +1,28 @@
+Tipos de peligros que pudiera estar expuesto un sistema de comercio electronico
+1.-Ingeniería social
+2.-Phishing
+3.-Pharming
+4.-Trashing
+5.-Spyware
+6.-Ataques Dos
+7.-Malware
+
+
+
+Medidas de seguridad en un sistema de comercio electronico
+1.-Garantizar que los clientes a la hora de registrarse den contraseñas seguras, 
+para ser consideradas seguras deben tener un mínimo de 8 caracteres e incluir letras mayúsculas, números y símbolos.
+
+2.-Informar a los usuarios de las políticas de seguridad y protección de datos.
+
+3.-Informar a los clientes en que condiciones nos comunicaremos con él.(Por ejemplo cuando haya una anomalia en su cuenta o transacciones). 
+
+4.-Proteger los servidores de ataques de DoS e Inyección SQL.
+
+5.-Garantizar la encriptación de datos.
+
+6.-Usar SSL en las comunicaciones donde se intercambia información.
+
+7.-Promover el uso de programas antivirus a los clientes.
+
+8.-Garantizar el uso de algún certificado digital.
